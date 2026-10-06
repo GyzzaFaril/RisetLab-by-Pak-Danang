@@ -1,0 +1,28 @@
+const input = document.createElement('input');
+input.type = 'file';
+input.accept = '.json,application/json';
+
+input.onchange = async () => {
+    const file = input.files[0];
+
+    if (!file) return;
+
+    try {
+        const text = await file.text();
+        const data = JSON.parse(text);
+
+        if (!data || typeof data !== 'object' || !data.a) {
+            throw new Error('File bukan state RisetLab yang valid.');
+        }
+
+        localStorage.setItem('risetlab_v1', JSON.stringify(data));
+
+        alert('Data RisetLab berhasil diimpor. Halaman akan dimuat ulang.');
+        location.reload();
+
+    } catch (error) {
+        alert('Gagal mengimpor: ' + error.message);
+    }
+};
+
+input.click();
