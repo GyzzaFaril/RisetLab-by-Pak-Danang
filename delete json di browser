@@ -1,0 +1,2 @@
+localStorage.removeItem('risetlab_v1');
+location.reload();
