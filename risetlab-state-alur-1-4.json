@@ -1,0 +1,74 @@
+{
+  "a": {
+    "meta:matkul": "Metodologi Penelitian",
+    "meta:pengampu": "Ir. Danang Arengga W., S.Pd., M.T.",
+    "meta:nama": "Gyzza Faryaldino Shafira",
+    "meta:nim": "240534604319",
+    "meta:prodi": "Pendidikan Teknik Elektro",
+    "meta:fakultas": "Teknik Elektro / Teknik",
+    "meta:univ": "Universitas Negeri Malang",
+    "meta:ta": "2026/2027 — Semester Gasal",
+    "s1:topik": "Pengaruh penggunaan media simulasi terhadap hasil belajar mahasiswa pada materi Sistem Kendali",
+    "s1:fenomena": "Materi Sistem Kendali memiliki konsep yang melibatkan hubungan antara masukan, proses, dan keluaran sehingga mahasiswa perlu memahami konsep sekaligus penerapannya. Dalam pembelajaran, mahasiswa dapat mengalami kesulitan memahami respons sistem apabila pembelajaran hanya menggunakan penjelasan teori dan perhitungan. Media simulasi dapat digunakan untuk membantu mahasiswa melihat perubahan respons sistem secara langsung ketika parameter sistem diubah. Oleh karena itu, perlu dikaji apakah penggunaan media simulasi berkaitan dengan peningkatan hasil belajar mahasiswa pada materi Sistem Kendali.",
+    "s1:rumusan": "Apakah penggunaan media simulasi berpengaruh terhadap hasil belajar mahasiswa pada materi Sistem Kendali?",
+    "s1:gap": "Masih diperlukan kajian mengenai penggunaan media simulasi dalam pembelajaran Sistem Kendali, khususnya untuk mengetahui pengaruhnya terhadap hasil belajar mahasiswa Pendidikan Teknik Elektro pada materi yang dipelajari.",
+    "s1:tujuan": "Menganalisis pengaruh penggunaan media simulasi terhadap hasil belajar mahasiswa pada materi Sistem Kendali.",
+    "s1:manfaat": "Teoretis: memberikan tambahan kajian mengenai penggunaan media simulasi dalam pembelajaran Sistem Kendali pada Pendidikan Teknik Elektro.\n\nPraktis: memberikan informasi bagi dosen atau pengajar mengenai penggunaan media simulasi sebagai salah satu alternatif dalam pembelajaran Sistem Kendali.",
+    "s1:batasan": "Penelitian dibatasi pada pembelajaran materi Sistem Kendali pada mahasiswa Pendidikan Teknik Elektro. Media yang digunakan berupa media simulasi sistem kendali. Hasil belajar yang diteliti dibatasi pada kemampuan mahasiswa setelah mengikuti pembelajaran materi Sistem Kendali.",
+    "s2:teori": "Cognitive Load Theory oleh Sweller digunakan sebagai landasan untuk menjelaskan bagaimana media pembelajaran dapat membantu mahasiswa memahami materi yang memiliki konsep kompleks dan abstrak, seperti Sistem Kendali.",
+    "s2:variabel": "X = Penggunaan media simulasi\nIndikator sementara:\nkemudahan penggunaan simulasi\nkemudahan memahami konsep Sistem Kendali\nvisualisasi respons sistem\ninteraksi dengan parameter sistem\n\nY = Hasil belajar Sistem Kendali\nIndikator:\npemahaman konsep\nkemampuan menganalisis sistem\nkemampuan menyelesaikan soal Sistem Kendali",
+    "s2:sintesis": "Penelitian terdahulu menunjukkan bahwa penggunaan media simulasi dalam pembelajaran dapat membantu mahasiswa memahami konsep dan meningkatkan hasil belajar. Beberapa penelitian menemukan adanya pengaruh positif penggunaan media simulasi terhadap hasil belajar dan pemahaman konsep mahasiswa. Namun, terdapat pula penelitian yang menunjukkan bahwa penggunaan media simulasi tidak selalu memberikan pengaruh yang signifikan terhadap hasil belajar. Perbedaan hasil penelitian tersebut menunjukkan adanya kesenjangan yang perlu dikaji lebih lanjut, khususnya pada pembelajaran Sistem Kendali di Pendidikan Teknik Elektro.",
+    "s2:hipotesis": "H₀: Penggunaan media simulasi tidak berpengaruh terhadap hasil belajar mahasiswa pada materi Sistem Kendali.\nH₁: Penggunaan media simulasi berpengaruh positif terhadap hasil belajar mahasiswa pada materi Sistem Kendali.",
+    "s2:kerangka": "Penggunaan media simulasi (X) memberikan visualisasi dan kesempatan kepada mahasiswa untuk mengamati perubahan respons sistem ketika parameter diubah. Pengalaman tersebut diharapkan membantu mahasiswa memahami konsep Sistem Kendali sehingga dapat meningkatkan hasil belajar (Y). Dengan demikian, penggunaan media simulasi diduga memiliki pengaruh terhadap hasil belajar mahasiswa pada materi Sistem Kendali.",
+    "meta:dosen": "Ir. Danang Arengga W., S.Pd., M.T.",
+    "s3:desain": "Penelitian ini menggunakan pendekatan kuantitatif dengan desain quasi experiment. Penelitian melibatkan dua kelompok mahasiswa, yaitu kelompok eksperimen yang menggunakan media simulasi dalam pembelajaran Sistem Kendali dan kelompok kontrol yang mengikuti pembelajaran tanpa menggunakan media simulasi. Kedua kelompok diberikan pretest dan posttest untuk mengetahui perubahan hasil belajar setelah pembelajaran.",
+    "s3:populasi": "Populasi penelitian adalah mahasiswa Pendidikan Teknik Elektro yang mengikuti pembelajaran Sistem Kendali. Dalam skenario penelitian ini, sampel utama terdiri dari 60 mahasiswa yang terbagi menjadi dua kelompok, yaitu 30 mahasiswa kelompok eksperimen dan 30 mahasiswa kelompok kontrol.",
+    "s3:sampling": "Teknik sampling yang digunakan adalah cluster sampling berdasarkan kelompok atau kelas mahasiswa. Dua kelompok yang memiliki karakteristik pembelajaran yang relatif sama dipilih sebagai kelompok eksperimen dan kelompok kontrol. Kelompok eksperimen memperoleh pembelajaran dengan media simulasi, sedangkan kelompok kontrol mengikuti pembelajaran tanpa media simulasi.",
+    "s3:ukuran": "Ukuran sampel dalam skenario penelitian ditetapkan sebanyak 60 mahasiswa, terdiri atas 30 mahasiswa pada kelompok eksperimen dan 30 mahasiswa pada kelompok kontrol. Jumlah tersebut dipilih agar kedua kelompok memiliki ukuran yang seimbang dan memungkinkan perbandingan hasil belajar sebelum dan sesudah pembelajaran. Selain sampel utama, sebanyak 30 mahasiswa dengan karakteristik serupa digunakan untuk uji coba instrumen dan tidak dicampurkan dengan sampel utama.",
+    "s3:instrumen_r": "Instrumen penelitian berupa tes hasil belajar Sistem Kendali dalam bentuk 20 soal pilihan ganda. Tes diberikan sebagai pretest sebelum pembelajaran dan posttest setelah pembelajaran. Instrumen mengukur tiga aspek, yaitu pemahaman konsep Sistem Kendali, kemampuan menganalisis sistem, dan kemampuan menyelesaikan soal Sistem Kendali.",
+    "s3:etika": "Penelitian dilakukan dengan meminta izin kepada pihak yang terkait sebelum pengambilan data. Mahasiswa diberikan informasi mengenai tujuan dan prosedur penelitian. Data responden dijaga kerahasiaannya dan digunakan hanya untuk kepentingan penelitian. Identitas responden tidak dicantumkan dalam penyajian hasil dan data penelitian dilaporkan secara objektif.",
+    "s4:kisi": "Variabel Y: Hasil Belajar Sistem Kendali\n\nIndikator 1 — Pemahaman konsep Sistem Kendali\n• Menjelaskan konsep dasar sistem kendali → butir 1, 2\n• Mengidentifikasi komponen dan fungsi dalam sistem kendali → butir 3, 4\n• Menjelaskan hubungan input, proses, dan output → butir 5, 6\n• Memahami respons sistem terhadap perubahan parameter → butir 7\n\nIndikator 2 — Kemampuan menganalisis sistem\n• Mengidentifikasi karakteristik suatu sistem kendali → butir 8, 9\n• Menganalisis hubungan antarbagian sistem → butir 10, 11\n• Menganalisis perubahan respons akibat perubahan parameter → butir 12, 13\n• Menentukan kondisi sistem berdasarkan informasi yang diberikan → butir 14\n\nIndikator 3 — Kemampuan menyelesaikan soal Sistem Kendali\n• Menentukan langkah penyelesaian permasalahan sistem kendali → butir 15, 16\n• Menggunakan konsep Sistem Kendali untuk menyelesaikan masalah → butir 17, 18\n• Menentukan solusi berdasarkan kondisi sistem → butir 19, 20\n\nTotal: 20 butir soal pilihan ganda.",
+    "s4:skala": "Instrumen menggunakan tes pilihan ganda dengan skor dikotomis. Jawaban benar diberi skor 1 dan jawaban salah diberi skor 0. Nilai hasil belajar dihitung dengan rumus: Nilai = (skor yang diperoleh / skor maksimum) × 100. Dengan jumlah 20 soal, skor maksimum adalah 20 dan nilai akhir berada pada rentang 0–100. Nilai yang lebih tinggi menunjukkan hasil belajar Sistem Kendali yang lebih baik.",
+    "s4:validitas_ahli": "Validitas isi dilakukan melalui penilaian oleh tiga validator yang memiliki kompetensi pada bidang Pendidikan Teknik Elektro dan Sistem Kendali. Validator menilai kesesuaian setiap butir soal dengan indikator hasil belajar, kejelasan bahasa, kesesuaian materi, dan keterukuran butir. Dalam skenario penelitian ini, sebagian besar butir dinilai sesuai dengan indikator. Beberapa butir diperbaiki pada aspek redaksi agar lebih jelas dan tidak menimbulkan penafsiran ganda. Setelah revisi, seluruh 20 butir dinyatakan layak untuk digunakan pada tahap uji coba instrumen.",
+    "s4:pilot": "Uji coba instrumen dilakukan terhadap 30 mahasiswa yang memiliki karakteristik serupa dengan sampel penelitian tetapi tidak termasuk dalam sampel utama. Data uji coba dianalisis menggunakan korelasi skor butir dengan skor total terkoreksi untuk mengetahui validitas butir serta Cronbach's Alpha untuk mengetahui reliabilitas instrumen.\n\nDalam skenario data penelitian, 18 dari 20 butir memenuhi kriteria validitas dengan r butir-total ≥ 0,30 dan p < 0,05. Dua butir belum memenuhi kriteria sehingga dilakukan perbaikan redaksi dan penyesuaian terhadap indikator. Setelah perbaikan, kedua butir dipertahankan dalam instrumen final. Hasil analisis reliabilitas menunjukkan Cronbach's Alpha sebesar 0,82 sehingga instrumen dinilai memiliki reliabilitas sangat baik.",
+    "s4:keputusan": "Instrumen final terdiri dari 20 soal pilihan ganda untuk mengukur hasil belajar mahasiswa pada materi Sistem Kendali. Instrumen mencakup tiga indikator, yaitu pemahaman konsep Sistem Kendali, kemampuan menganalisis sistem, dan kemampuan menyelesaikan soal Sistem Kendali. Berdasarkan validitas isi dan hasil uji coba, seluruh butir telah diperiksa dan diperbaiki sehingga instrumen dinyatakan layak digunakan untuk pengumpulan data penelitian."
+  },
+  "c": {
+    "s2#1": true,
+    "s1#1": false,
+    "s3#0": true,
+    "s3#1": true,
+    "s3#2": true,
+    "s3#3": true,
+    "s4#0": true,
+    "s4#1": true,
+    "s4#2": true,
+    "s4#3": true
+  },
+  "q": {
+    "s1": 1,
+    "s2": 1
+  },
+  "done": {
+    "s1": true,
+    "s2": true,
+    "s3": true,
+    "s4": true
+  },
+  "badges": {
+    "topik": true,
+    "teori": true
+  },
+  "g": {},
+  "img": {},
+  "frm": {},
+  "sv": {
+    "s1": 1791288134955,
+    "s2": 1791285486764,
+    "s3": 1791286776828,
+    "s4": 1791283432820,
+    "s5": 1791283440022
+  },
+  "data": "",
+  "cur": 4
+}
